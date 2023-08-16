@@ -1,11 +1,5 @@
 {
-  "name": "init",
-  "start": {
-    "ts": {
-      "path": "/start/ts",
-      "files": [
-        "*"
-      ]
-    }
-  }
+	"name": "init",
+	"bundle": "start",
+	"files": "*"
 }

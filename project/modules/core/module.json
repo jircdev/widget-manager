@@ -1,9 +1,5 @@
 {
-  "name": "core",
-  "ts": {
-    "path": "ts",
-    "files": [
-      "*"
-    ]
-  }
+	"name": "core",
+	"bundle": "ts",
+	"files": "*"
 }
